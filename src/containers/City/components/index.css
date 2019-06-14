@@ -1,0 +1,40 @@
+.city_header{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #fff;
+    color: #f63;;
+    padding: 0 10px;
+    text-align: center;
+    z-index: 305;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.city_header_left{
+    float: left;
+    z-index: 400;
+    width: 10%;
+    font-size: 30px;
+}
+.city_header_right{
+    float: left;
+    z-index: 400;
+    width: 60%        
+}
+.hot_city{
+    padding-top: 50px;
+    background: #ddd;
+    min-height: 53px;
+}
+.hot_box{
+    
+}
+.city_item{
+    width: 135px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #ddd;
+    float: left;
+}
